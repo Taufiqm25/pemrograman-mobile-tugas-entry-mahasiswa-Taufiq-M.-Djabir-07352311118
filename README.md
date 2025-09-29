@@ -7,7 +7,7 @@ Program ini dibuat untuk entry data mahasiswa lalu mencari data berdasarkan NPM.
    * Ada constructor untuk mengisi data mahasiswa.
    * Ada method tampilkanDetail() untuk menampilkan data mahasiswa dengan format rapi.
 
-2. **Fungsi main()
+2. Fungsi main()
 
    * Membuat list kosong daftarMahasiswa untuk menyimpan semua data mahasiswa.
    * Program meminta pengguna memasukkan data **10 mahasiswa** (NPM, Nama, Jurusan, Angkatan).
